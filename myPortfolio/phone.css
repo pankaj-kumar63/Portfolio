@@ -1,6 +1,6 @@
 @media(max-width:1251px){
     html{
-        font-size: 2.5rem;
+        font-size: 2.7rem;
     }
    
 .logo img{
@@ -13,7 +13,7 @@
 
 /* Navbar section */
 #navbar{
-    width: 398vw;
+    width: 399vw;
     padding: 121px 27px;
 
 
@@ -30,7 +30,7 @@
 /* Profile section */
 
 .myProfile{
-    width: 398vw;
+    width: 399vw;
 }
 .shortintro{
     padding: 40px 58px; 
@@ -44,8 +44,8 @@
 } */
 
 .myProfile img{
-    margin: 103px -93px;
-    width: 195vw;
+    margin: 87px 57px;
+    width: 158vw;
 }
    
 
