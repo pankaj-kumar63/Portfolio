@@ -13,7 +13,7 @@
 
 /* Navbar section */
 #navbar{
-    width: 399vw;
+    width: 401vw;
     padding: 121px 27px;
 
 
@@ -30,7 +30,7 @@
 /* Profile section */
 
 .myProfile{
-    width: 399vw;
+    width: 401vw;
 }
 .shortintro{
     padding: 40px 58px; 
@@ -44,8 +44,8 @@
 } */
 
 .myProfile img{
-    margin: 87px 57px;
-    width: 158vw;
+    margin: 87px 21px;
+    width: 144vw;
 }
    
 
@@ -95,7 +95,7 @@ width: 401vw;
 /* Clients Section */
 
 .clients{
-    width: 442vw;
+    width: 401vw;
 
 }
 
