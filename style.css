@@ -62,7 +62,7 @@
     /* position: absolute; */    /*if position absolute then navbar will not be sticky*/
     background-color:  #30394D;
     padding: 100px 0px;
-    width: 100vw;
+    /* width: 100vw; */
 }
 .shortintro{
     font-size: 2rem;
@@ -229,7 +229,7 @@ div>h4,p{
 
 
 .form [type='submit']:active{
-    
+
     background: black;
 }
 .form [type='submit']:hover{
