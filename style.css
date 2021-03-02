@@ -62,7 +62,6 @@
     /* position: absolute; */    /*if position absolute then navbar will not be sticky*/
     background-color:  #30394D;
     padding: 100px 0px;
-    /* width: 100vw; */
 }
 .shortintro{
     font-size: 2rem;
@@ -237,12 +236,10 @@ div>h4,p{
    
 }
 .contact-form .btn{
-    color: rgb(221, 128, 128);
-    background: crimson;
+    background: #353657;
     width: 200px;
     margin: 0 auto;
     font-size: 2rem;
-    /* border-radius: 8px; */
     
 }
 
