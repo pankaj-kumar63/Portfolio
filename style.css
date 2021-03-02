@@ -220,17 +220,21 @@ div>h4,p{
 
 }
 .form [type='submit']{
-
+    color: white;
   font-size: 2rem;
-  background: white;
-  border-radius: 8px;
+  background: rgb(86, 86, 226);
+  /* border-radius: 8px; */
   font-weight: 650;
 }
 
 
 .form [type='submit']:active{
+    
     background: black;
-    color: white;
+}
+.form [type='submit']:hover{
+    background: rgb(112, 111, 111);
+   
 }
 .contact-form .btn{
     color: rgb(221, 128, 128);
@@ -238,7 +242,7 @@ div>h4,p{
     width: 200px;
     margin: 0 auto;
     font-size: 2rem;
-    border-radius: 8px;
+    /* border-radius: 8px; */
     
 }
 
